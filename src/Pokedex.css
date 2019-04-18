@@ -1,0 +1,1 @@
+.Pokedex-cards { display: flex; justify-content: space-evenly; text-align: center; flex-wrap: wrap; margin: 0 auto; max-width: 75%;}
