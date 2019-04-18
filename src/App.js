@@ -13,3 +13,7 @@ class App extends Component {
 }
 
 export default App;
+
+// https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${id}.png
+
+// https://assets.pokemon.com/assets/cms2/img/pokedex/detail/${id}.png
